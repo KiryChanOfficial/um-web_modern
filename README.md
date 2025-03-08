@@ -5,6 +5,8 @@
 > **WARNING**  
 > 如无必要请勿 Fork 该仓库。  
 
+  ---  
+
 # Unlock Music Project - CLI Edition
 
 Original: Web Edition https://git.unlock-music.dev/um/web
